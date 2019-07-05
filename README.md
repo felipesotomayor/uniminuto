@@ -1,1 +1,2 @@
-# uniminuto
+# UNI-Minuto
+## Proyecto formativo
