@@ -20,11 +20,11 @@ Esto se ocasiona ya que la universidad maneja su inventario en unos portafolios 
 
 ¿Cómo suministrar a la universidad un sistema de  inventario con  almacenamiento y búsqueda eficiente, llevando consigo la organización y el seguimiento de las cajas, portafolios y folios de los graduados con el convenio unitolima?
 
-#Justificación
+#JUSTIFICACION
 
 El presente proyecto debe implementarse para la facilitación de los procesos de búsqueda y almacenamiento de la información de los graduados del convenio unitolima.  La cual debe dar una idea aproximada de lo que se debe hacer para encontrar la información guardada en folios,  solucionando la demanda de mantener  y gestionar la estructuración  del convenio unitolima lo cual hace parte de la institución. 
 
-#Alcance
+#ALACANCES
 
 Diseñar un interfaz de registro y acceso de usuario en el sistema.
 
