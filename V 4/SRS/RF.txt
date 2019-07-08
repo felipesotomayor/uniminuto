@@ -1,0 +1,15 @@
+1  ID o Numero de documento de los graduados
+2  Formulario de registro.
+3  Tabla con la identificación clara de los documentos de los graduados
+4  Acceso de cambios de la información
+5  Retención de datos 
+6  Autorización de ingreso al sistema 
+7  Encriptado  
+8  Compatibilidad con los sistemas operativos
+9  Registro de empleados 
+10 Registro de administrador 
+11 Tutorial de uso del sistema 
+12 Actualización del sistema  
+13 Búsqueda de la información 
+14 Generar repostes de búsqueda 
+15 Viñeta de ubicación del documento  

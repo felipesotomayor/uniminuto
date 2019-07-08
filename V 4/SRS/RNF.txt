@@ -1,0 +1,16 @@
+1  Interfaz del sistema 
+2  Eficiencia
+3  Ingresar al sistema 
+4  Habilitar formulario de registro
+5  Numero de documentos a registrar 
+6  Tiempo de sesión 
+7  Conexión a redes 
+8  Sistema entendible
+9  Backup
+10 Ventana de aceptación 
+11 Permiso o cambio de acceso 
+12 Seguridad del sistema 
+13 Seguridad de datos de la entidad 
+14 Mantenimiento del sistema  
+15 Perfil personalizado 
+16 QNA
